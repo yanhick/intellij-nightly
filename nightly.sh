@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # clone the nightly builds repo
-git clone git@github.com:yanhick/intellij-haxe-nightly-builds.git
+git clone git@github.com:tivo/intellij-haxe-nightly-builds.git
 cd intellij-haxe-nightly-builds
 
 # add a remote to the code repo
